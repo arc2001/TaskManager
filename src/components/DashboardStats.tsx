@@ -1,4 +1,3 @@
-import React from 'react';
 import { Task } from '../types';
 
 export default function DashboardStats({ tasks }: { tasks: Task[] }) {

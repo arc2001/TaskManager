@@ -1,4 +1,3 @@
-import React from 'react';
 import { Task, ViewMode } from '../types';
 
 interface Props {

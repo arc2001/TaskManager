@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Task, TaskFiltersState, ViewMode } from './types';
 import DashboardStats from './components/DashboardStats';
 import TaskFilters from './components/TaskFilters';
