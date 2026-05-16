@@ -195,7 +195,7 @@ This is an assessment project. Feel free to use as reference or starting point f
 For issues or questions, please check the component files in `src/components/` for implementation details.
 
 ## Screenshots
-![Main Dashboard](public/image-1.png)
+![Main Dashboard](public/image-light.png)
 *Full dashboard showing statistics, filters, and task list in light mode*
 
 ### Create Task Modal
