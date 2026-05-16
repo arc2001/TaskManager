@@ -194,10 +194,20 @@ This is an assessment project. Feel free to use as reference or starting point f
 
 For issues or questions, please check the component files in `src/components/` for implementation details.
 
+## Screenshots
 
-## ScreenShots
+### Create Task Modal
+![Create Task Modal](public/image.png)
+*Add new tasks with title, description, priority, and due date*
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+### Dashboard & Task List View
+![Dashboard List View](public/image-1.png)
+*View all tasks with statistics dashboard and list view layout*
+
+### Task Completion
+![Completed Task](public/image-2.png)
+*Mark tasks as completed with visual feedback*
+
+### Card View Mode
+![Card View](public/image-3.png)
+*Alternative card view layout for task display*
