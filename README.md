@@ -54,6 +54,10 @@ npm run dev
 
 The app will be available at `http://localhost:5173` (or another port if 5173 is busy).
 
+### Live URL
+
+🚀 **Live Demo**: https://agent-6a086a574e79718c--stalwart-piroshki-ade863.netlify.app/
+
 ### Building for Production
 
 ```bash
